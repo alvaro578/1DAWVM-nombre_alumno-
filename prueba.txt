@@ -1,5 +1,6 @@
 hola que tal 
 adios mundo
+Abre dentro de la pestaña Show in explorer y cambia una o dos líneas de
 n GHD. Las tildes no se mostrarán dado que no
 tienen el mismo sistema de caracteres GitHub está en UTF-8. Comprueba que
 existen cambios que no están confirmados.
