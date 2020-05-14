@@ -1,0 +1,5 @@
+hola que tal 
+adios mundo
+n GHD. Las tildes no se mostrarán dado que no
+tienen el mismo sistema de caracteres GitHub está en UTF-8. Comprueba que
+existen cambios que no están confirmados.
